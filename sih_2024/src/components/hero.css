@@ -1,0 +1,113 @@
+body{
+    background-color: white;
+    color: black;
+    overflow-x:hidden ;
+    }
+    
+    
+    .MAIN{
+        display: flex;
+        justify-content: space-between;
+    }
+    .hero-content{
+        margin-top: 31px;
+        margin-left: -64px;
+        margin-left: 16px;
+    }
+    .Image{
+        height: 450px;
+        width: 450px;
+    }
+    .hero-title{
+        margin-left: 53px;
+        font-size: 4rem;
+    
+    }
+    .hero-subtitle{
+        margin-left: 59px;    font-size: 22px;
+        text-align: -webkit-left;
+    }
+    .hero-cta{
+        margin-left: 59px;
+        margin-top: 27px;
+        border-radius: 8px;
+     
+        padding: 0.6em 1.2em;
+        font-size: 1em;
+        font-weight: 500;
+        font-family: inherit;
+        background-color: #012e92;
+        cursor: pointer;
+        transition: border-color 0.25s;
+    }
+    
+    button:hover{
+    
+    
+    }
+    
+    h1 {
+        margin-left: 71px;
+       text-align: center;
+        font-size: 4.2em;
+        line-height: 1.1;
+    }
+    .P2{
+        margin-right: 114px;
+        font-weight: 450;
+        text-align: start;
+        line-height: 4rem;
+        font-size: 2.2rem;
+    }
+    
+    
+        .con{
+            margin-top: 20px;
+        }
+    
+        .con{
+            display: flex;
+      justify-content: space-between;
+        }
+    
+        .imge{
+            margin-left: 92px;
+    
+            height: 450px;
+            width: 500px;
+        }
+    
+    .spanElement{
+        color:#012e92;
+    }
+    .CatImage-1{
+        margin-left: 34%;
+    
+        height: 145px;
+        width: 171px;
+    }
+    .Category{
+        margin-top: 100px;
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .CatImage-2{
+        margin-left: 25%;
+    
+        height: 145px;
+        width: 171px;
+        }
+    
+        .CatImage-3{
+            margin-left: 33%;
+    
+            height: 145px;
+            width: 171px;
+            }
+            .Category p{
+                text-align: center;
+                font-size: 1.2rem;        }
+
+                .how{
+                    font-size: 35px;
+                }

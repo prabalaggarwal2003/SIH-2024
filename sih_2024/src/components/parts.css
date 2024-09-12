@@ -1,0 +1,125 @@
+  /* Main container styling */
+  .containers {
+    background-color: #FFFFFF;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  /* Heading styles */
+  .headi {
+    color: #FF6347;
+    font-size: 2.8rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+    animation: popIn 0.5s ease-in-out;
+  }
+  
+  /* .containers h2 {
+    font-size: 2rem;
+    color: #3498DB;
+    margin-bottom: 20px;
+    transition: color 0.3s ease;
+  } */
+  
+  h2:hover {
+    color: #FF6347;
+  }
+  
+  /* Text paragraph styles */
+  p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+  }
+  
+  /* Different colors for each section */
+  .executive p {
+    background-color: #FFF0F0;
+    border-left-color: #FF6347;
+  }
+  
+  .legislative p {
+    background-color: #E8F6F3;
+    border-left-color: #2ECC71;
+  }
+  
+  .judiciary p {
+    background-color: #FDEDEC;
+    border-left-color: #E74C3C;
+  }
+  
+  /* Fun keyframe animations */
+  @keyframes popIn {
+    from {
+      transform: scale(0.5);
+      opacity: 0;
+    }
+    to {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+  
+  /* Section colors */
+  h3 {
+    color: #9B59B6;
+    font-size: 1.6rem;
+    margin-top: 30px;
+  }
+  
+  /* Adding some fun with a bounce hover effect */
+  .container h2:hover {
+    animation: bounce 0.3s ease-in-out;
+  }
+  
+  @keyframes bounce {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.1);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  
+  /* Buttons for interactivity if needed */
+  button {
+    background-color: #FF6347;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    margin-top: 20px;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #E74C3C;
+  }
+  
+  /* Responsive design */
+  @media only screen and (max-width: 600px) {
+    h1 {
+      font-size: 2rem;
+    }
+  
+    h2 {
+      font-size: 1.5rem;
+    }
+  
+    p {
+      font-size: 1rem;
+    }
+  }
