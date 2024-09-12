@@ -30,7 +30,7 @@ Fundamental Rights
           <li><span className="font-bold">Article 28:</span> Religious instruction can't be forced in government-run schools.</li>
           <li><span className="font-bold">Article 29: </span>Cultures, languages, and traditions should be protected.</li>
           <li><span className="font-bold">Article 30: </span>Minority groups can run their own schools.</li>
-          <li><span className="font-bold">Article 31: </span>(This article has been removed.)</li>
+          <li><span className="font-bold">Article 31: </span>Right to Property. (This article has been removed.)</li>
           <li><span className="font-bold">Article 32: </span>If your rights are violated, you can ask the court for help to protect them.</li>
         </ol>
       </div>

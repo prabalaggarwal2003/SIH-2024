@@ -21,10 +21,10 @@ const Parts = () => {
       <div className="legislative">
         <h2>2. The Legislative Branch</h2>
         <p>
-          The <strong>Legislative</strong> branch is like the people who write the rulebook for the ship. It’s made up of the <strong>Congress</strong>, and their job is to create the laws that keep everyone safe and happy.
+          The <strong>Legislative</strong> branch is like the people who write the rulebook for the ship. It’s made up of the <strong>Ruling Party</strong>, and their job is to create the laws that keep everyone safe and happy.
         </p>
         <p>
-          They’re like a group of smart sailors who think about new rules to help everyone on board, and they work together to write them down. There are two teams: the <strong>Senate</strong> and the <strong>House of Representatives</strong>, and they both work to come up with the best ideas!
+          They’re like a group of smart sailors who think about new rules to help everyone on board, and they work together to write them down. There are two teams: the <strong>Lok Sabha</strong> and the <strong>Rajya Sabha</strong>, and they both work to come up with the best ideas!
         </p>
       </div>
 
